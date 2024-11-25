@@ -26,7 +26,7 @@ I modified the original model to understand how teams perform when playing on co
    - Why negative? Teams typically perform worse in B2B games
    - Prior centered at -0.1 suggests a 10% decrease in performance
 
-### Results in Plain English
+### Results 
 1. **Back-to-Back Effect:**
    - Teams score 6.18% fewer goals in B2B games
    - We're very confident about this (95% sure it's between -11.68% and -0.68%)
