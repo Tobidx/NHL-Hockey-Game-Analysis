@@ -123,13 +123,6 @@ real xg_diff = team_xg_off[team] - team_xg_def[opponent]
 - High effective sample sizes
 - No divergent transitions
 
-### Prediction Quality
-1. Base Model (Ex. 1): ±1.71 goals
-2. SOG/xG Model (Ex. 2): 
-   - Shots: ±9.93 shots
-   - xG: ±1.00 xG
-3. Combined Model (Ex. 3): ±1.69 goals
-
 
 ## Data Used
 - 2023 NHL season
