@@ -1,0 +1,17 @@
+# Core data science packages
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Stan modeling packages
+cmdstanpy
+arviz
+
+# Jupyter notebooks
+jupyter
+notebook
+ipywidgets
+
+
