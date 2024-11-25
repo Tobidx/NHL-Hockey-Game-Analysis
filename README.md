@@ -6,7 +6,7 @@
    ```bash
    pip install cmdstanpy arviz numpy pandas matplotlib
    ```
-3. Run the analysis notebook to see results
+3. Run the notebooks to see results
 
 
 ## Exercise 1: Back-to-Back Games Effect
